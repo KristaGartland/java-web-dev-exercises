@@ -13,7 +13,7 @@ public class Area {
         radius = input.nextDouble();
         input.close();
 
-        area = 3.14 * radius * radius;
+        area = Circle.getArea(radius);
         System.out.println(String.format("The area of a circle with a radius of %s is %s", radius, area));
 
 
