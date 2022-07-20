@@ -2,7 +2,7 @@ package org.launchcode.java.demos.lsn5unittesting.test;
 
 public class CarTest {
 
-    //TODO: add emptyTest so we can configure our runtime environment (remove this test before pushing to your personal GitLab account)
+    //TODO: add emptyTest so we can configure our runtime environment (remove this exercises.test before pushing to your personal GitLab account)
     //TODO: constructor sets gasTankLevel properly
     //TODO: gasTankLevel is accurate after driving within tank range
     //TODO: gasTankLevel is accurate after attempting to drive past tank range
